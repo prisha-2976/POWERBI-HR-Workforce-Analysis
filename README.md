@@ -5,6 +5,6 @@
 </p>
 
 ### Key Highlights
-- 📊 Tracks attrition trends across age, salary, and job roles  
-- 🔍 Provides education and department-level breakdowns for deeper insights  
-- ⚡ Enables data-driven HR decisions with clear visual 
+-  Tracks attrition trends across age, salary, and job roles  
+-  Provides education and department-level breakdowns for deeper insights  
+-  Enables data-driven HR decisions with clear visual 
